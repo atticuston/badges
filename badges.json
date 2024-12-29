@@ -9,7 +9,7 @@
             "icon": "https://cdn3.emoji.gg/emojis/91872-money.gif"
         },
         "supporter": {
-            "tip": "Xaydes Supporter",
+            "tip": "Project Supporter",
             "icon": "https://cdn.discordapp.com/emojis/1106969427662082230.gif?size=128&quality=lossless"
         },
         "dumbass": {
@@ -19,88 +19,35 @@
         "owner": {
             "tip": "Owner",
             "icon": "https://cdn3.emoji.gg/emojis/2920-blue-verify.gif"
-        },
-        "femboy": {
-            "tip": "femboy",
-            "icon": "https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"
-        },
-        "dick": {
-            "tip": "This user loves dick",
-            "icon": "https://cdn.discordapp.com/emojis/1061814462526529579.webp?size=160&quality=lossless"
         }
     },
     "users": {
-        "1203209220120514560": [
-            "supporter"
-        ],
-        "1234916234789650463": [
-            "supporter",
-            "The Shadow Nigga"
-        ],
-        "1143377039903166464": [
-            "rich",
-            "The Shadow Nigga",
-            "femboy"
-        ],
-        "1256413320081182724": [
-            "femboy",
-            "supporter",
-            "dick",
-            "dick"
-        ],
         "1255905269032947844": [
             "supporter",
-            "femboy",
-            "dick"
+            "rich",
+            "doner",
+            "owner"
         ],
-        "1121786626637578321": [
-            "supporter"
-        ],
-        "1027530427860254801": [
-            "supporter"
-        ],
-        "1087333469278969869": [
+        "1219225642378330173": [
             "supporter",
-            "shhh"
-        ],
-        "test": [
-            "noway"
-        ],
-        "1022258731154673695": [],
-        "968658669145317456": [
-            "dick",
-            "dick"
-        ],
-        "1192150489228390500": [
-            "dick"
+            "rich",
+            "doner",
+            "owner"
         ],
         "1183828526709870768": [
             "supporter",
-            "dumbass"
+            "dumbass",
+            "owner"
         ],
         "1214289247213715517": [
             "supporter",
-            "dumbass"
+            "dumbass",
+            "owner"
         ],
         "1263857932651724870": [
             "supporter",
-            "dumbass"
-        ],
-        "1061057705063747675": [
-            null,
-            null
-        ],
-        "null": [
-            null
-        ],
-        "1204236248101687328": [
-            null
-        ],
-        "1074691343588282460": [
-            null
-        ],
-        "1220770439182422066": [
-            null
+            "dumbass",
+            "owner"
         ]
     }
 }
